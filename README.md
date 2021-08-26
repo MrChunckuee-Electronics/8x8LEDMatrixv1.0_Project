@@ -1,3 +1,9 @@
 # 8x8LEDMatrixv1.0_Project
 
-More info https://mrchunckuee.blogspot.com/2015/01/matriz-de-leds-8x8-con-pic16f627-y.html
+***
+Puedes seguirme en:
+- [Blogspot](http://mrchunckuee.blogspot.com)
+- [Facebook](https://www.facebook.com/ElectronicayRobotica)
+- [Twitter](https://twitter.com/MrChunckuee)
+- [GitHub](https://github.com/MrChunckuee)
+- [YouTube](https://www.youtube.com/user/mrchunckueepsr)
